@@ -1,0 +1,10 @@
+Revision history for Perl extension XML::RSS::Parser::Lite.
+
+0.20  Tue Apr 21 15:50:30 2009
+	- Add parser of Atom type; add by squall.
+		-XA -n XML::RSS::Parser::Lite
+		
+0.10  Tue Nov 02 15:50:30 2003
+	- original version; created by Erik Bosrup, erik@bosrup.com
+		-XA -n XML::RSS::Parser::Lite
+

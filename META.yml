@@ -1,0 +1,19 @@
+--- #YAML:1.0
+name:               XML-RSS-Parser-Lite
+version:            0.20
+abstract:           A simple pure perl RSS/Atom parser.
+author:
+    - squall <squall.f@gmail.com>
+license:            unknown
+distribution_type:  module
+configure_requires:
+    ExtUtils::MakeMaker:  0
+requires:  {}
+no_index:
+    directory:
+        - t
+        - inc
+generated_by:       ExtUtils::MakeMaker version 6.48
+meta-spec:
+    url:      http://module-build.sourceforge.net/META-spec-v1.4.html
+    version:  1.4

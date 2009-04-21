@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/XML-RSS-Parser-Lite.t
+lib/XML/RSS/Parser/Lite.pm
+META.yml                                 Module meta-data (added by MakeMaker)
